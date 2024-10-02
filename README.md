@@ -10,9 +10,8 @@ Kelas : SK3B
 
 Pertama-tama kita ubah dulu settingan network nya di virtual box ke Bridged Adapter. Caranya buka dulu aplikasi virtual box, lalu ke setting, kemudian pilih ke network, dan di bagian Attached to nya ubah ke 
 Bridged Adapter
-
-
-Kita harus sambungkan dulu perangkat kita ke jaringan/wifi
+![Screenshot 2024-10-02 102133](https://github.com/user-attachments/assets/4319507a-589e-4491-9639-e4c27639a251)
+Kita harus sambungkan dulu perangkat kita ke jaringan/wifi agar bisa terhubung ke server
 
 Selanjutnya pergi ke terminal linux, lalu kita gunakan command ifconfig untuk mengecek ip addres kita
 ![Screenshot from 2024-10-02 10-25-00](https://github.com/user-attachments/assets/d3fcacae-7cf3-40a0-872e-06879a7d5ba8)
